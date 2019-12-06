@@ -1,0 +1,5 @@
+pip install -r requiremets.txt
+
+# run
+python3 run_server.py
+python3 run_client.py
